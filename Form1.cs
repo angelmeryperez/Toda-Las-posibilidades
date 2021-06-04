@@ -14,7 +14,6 @@ namespace Toda_Las_posibilidades
         string data0 = "";
         string data1 = "";
 
-        int W = 0;
         int Num0 = 0;
         int Num1 = 0;
         int Num2 = 0;
